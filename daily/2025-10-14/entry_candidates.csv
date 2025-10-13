@@ -1,0 +1,2 @@
+ticker,close,MA200,YH,YL,T1,T2,T3,T4,nearest,dist_pct,regime,rule
+7182.T,1710.5,1596.22,1932.5,1161.5,1848.43,1764.36,1680.29,1596.22,T3,-1.8,NEUTRAL,T3_T4
