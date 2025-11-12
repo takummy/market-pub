@@ -1,16 +1,16 @@
 {
-  "DATE": "2025-11-12",
+  "DATE": "2025-11-13",
   "GITHUB_REPO": "takummy/market-pub",
   "GITHUB_BRANCH": "main",
   "GITHUB_DIR": "daily/",
   "urls": {
-    "fred_macro": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-12%2Ffred_macro.csv",
-    "fx_rates": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-12%2Ffx_rates.csv",
-    "entry_bands": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-12%2Fentry_bands.csv",
-    "edinet_today": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-12%2Fedinet_today.csv",
-    "edinet_watch_updates": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-12%2Fedinet_watch_updates.csv",
-    "jpholidays": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-12%2Fjpholidays.csv",
-    "eia_wti": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-12%2Feia_wti.csv",
-    "eia_brent": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-12%2Feia_brent.csv"
+    "fred_macro": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-13%2Ffred_macro.csv",
+    "fx_rates": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-13%2Ffx_rates.csv",
+    "entry_bands": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-13%2Fentry_bands.csv",
+    "edinet_today": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-13%2Fedinet_today.csv",
+    "edinet_watch_updates": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-13%2Fedinet_watch_updates.csv",
+    "jpholidays": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-13%2Fjpholidays.csv",
+    "eia_wti": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-13%2Feia_wti.csv",
+    "eia_brent": "https://raw.githubusercontent.com/takummy/market-pub/main/daily%2F2025-11-13%2Feia_brent.csv"
   }
 }
